@@ -58,6 +58,7 @@ Connexion SSH depuis CLIENT-LINUX (Linux → Linux)
 Configuration IP fixe via netplan (192.168.1.40)
 Tests de connectivité (ping, ssh)
 Connexion SSH vers SRV-LINUX
+<img width="966" height="852" alt="Image" src="https://github.com/user-attachments/assets/1a7ffc08-1950-4d77-aa1e-fd2bbe6284e9" />
 
 
 🔗 Connexions à distance testées
@@ -67,7 +68,6 @@ Connexion SSH vers SRV-LINUX
 | WinSRV | SRV-LINUX | SSH | ✅ |
 | CLIENT-LINUX | SRV-LINUX | SSH | ✅ |
 
-<img width="966" height="852" alt="Image" src="https://github.com/user-attachments/assets/1a7ffc08-1950-4d77-aa1e-fd2bbe6284e9" /
 
 🛠️ Stack technique
 
