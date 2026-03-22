@@ -22,7 +22,7 @@ Construire une infrastructure réseau complète simulant un environnement d'entr
 VMOSIPRôleWinSRVWindows Server 2022 Standard192.168.1.10Contrôleur de domaine (AD DS + DNS)WinClientWindows 10 Pro192.168.1.20Poste client joint au domaineSRV-LINUXUbuntu Server 24.04 LTS192.168.1.30Serveur SSH LinuxCLIENT-LINUXUbuntu Desktop 24.04 LTS192.168.1.40Poste client Linux
 
 ⚙️ Ce qui a été configuré
-🪟 Windows Server 2022
+🪟 Windows Server
 
 Installation et configuration du rôle AD DS (Active Directory Domain Services)
 Création du domaine lab.local
@@ -31,6 +31,8 @@ Attribution d'une IP fixe (192.168.1.10)
 Création d'utilisateurs AD (ex : adupont@lab.local)
 Déploiement d'une GPO (blocage du Panneau de configuration pour les utilisateurs du domaine)
 Activation et test du RDP (Bureau à distance) vers WinClient
+
+<img width="1011" height="786" alt="Image" src="https://github.com/user-attachments/assets/85974b44-b0d2-4556-9346-6f20a4b2a0aa" />
 
 🪟 Windows 10 Pro (Client)
 
@@ -69,7 +71,6 @@ OS Client : Windows 10 Pro / Ubuntu Desktop 24.04 LTS
 Services : AD DS, DNS, GPO, RDP, SSH, netplan
 Scripting : PowerShell, Bash
 
-<img width="1011" height="786" alt="Image" src="https://github.com/user-attachments/assets/85974b44-b0d2-4556-9346-6f20a4b2a0aa" />
 
 👩‍💻 Auteure
 Mina OUAAZIZ - Technicienne Supérieure Systèmes et Réseaux
