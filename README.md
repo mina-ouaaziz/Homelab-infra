@@ -34,7 +34,6 @@ Activation et test du RDP (Bureau à distance) vers WinClient
 
 <img width="1011" height="786" alt="Image" src="https://github.com/user-attachments/assets/85974b44-b0d2-4556-9346-6f20a4b2a0aa" />
 <img width="871" height="779" alt="Image" src="https://github.com/user-attachments/assets/e4b57725-9292-417b-a40c-a79fda2d1991" />
-<img width="1024" height="603" alt="Image" src="https://github.com/user-attachments/assets/e6f3f326-44c2-4d5f-8296-7d56d2a3b97d" />
 
 🪟 Windows 10 Pro (Client)
 
@@ -44,6 +43,7 @@ Application des GPO via gpupdate /force
 Autorisation du RDP pour les utilisateurs du domaine
 
 <img width="574" height="621" alt="Image" src="https://github.com/user-attachments/assets/f5e25e8e-3ad4-45ac-a736-bbfc3d5931db" />
+<img width="1024" height="603" alt="Image" src="https://github.com/user-attachments/assets/e6f3f326-44c2-4d5f-8296-7d56d2a3b97d" />
 
 🐧 Ubuntu Server 24.04 (SRV-LINUX)
 
