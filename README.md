@@ -6,8 +6,8 @@ Construire une infrastructure réseau complète simulant un environnement d'entr
 
 🏗️ Architecture du lab
                         ┌─────────────────────────────┐
-                        │      labreseau (interne)     │
-                        │       192.168.1.0/24         │
+                        │      labreseau (interne)    |
+                        │       192.168.1.0/24        │
                         └──────────────┬──────────────┘
                                        │
          ┌─────────────┬───────────────┼───────────────┐
