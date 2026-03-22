@@ -73,7 +73,7 @@ Connexion SSH vers SRV-LINUX
 
 Hyperviseur : Oracle VirtualBox
 Réseau : Réseau interne VirtualBox (labreseau)
-OS Serveur : Windows Server 2022 Standard Evaluation / Ubuntu Server 24.04 LTS
+OS Serveur : Windows Server Standard Evaluation / Ubuntu Server 24.04 LTS
 OS Client : Windows 10 Pro / Ubuntu Desktop 24.04 LTS
 Services : AD DS, DNS, GPO, RDP, SSH, netplan
 Scripting : PowerShell, Bash
