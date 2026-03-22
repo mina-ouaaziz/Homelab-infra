@@ -44,7 +44,6 @@ Application des GPO via gpupdate /force
 Autorisation du RDP pour les utilisateurs du domaine
 
 <img width="574" height="621" alt="Image" src="https://github.com/user-attachments/assets/f5e25e8e-3ad4-45ac-a736-bbfc3d5931db" />
-<img width="1022" height="788" alt="Image" src="https://github.com/user-attachments/assets/dccb9dac-7827-427e-b264-d5858ceebcbb" />
 
 🐧 Ubuntu Server 24.04 (SRV-LINUX)
 
@@ -67,6 +66,7 @@ Connexion SSH vers SRV-LINUX
 | WinSRV | WinClient | RDP | ✅ |
 | WinSRV | SRV-LINUX | SSH | ✅ |
 | CLIENT-LINUX | SRV-LINUX | SSH | ✅ |
+<img width="1022" height="788" alt="Image" src="https://github.com/user-attachments/assets/dccb9dac-7827-427e-b264-d5858ceebcbb" />
 
 
 🛠️ Stack technique
