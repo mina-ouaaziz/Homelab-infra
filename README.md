@@ -41,6 +41,10 @@ Connexion avec un compte de domaine (LAB\adupont)
 Application des GPO via gpupdate /force
 Autorisation du RDP pour les utilisateurs du domaine
 
+<img width="574" height="621" alt="Image" src="https://github.com/user-attachments/assets/f5e25e8e-3ad4-45ac-a736-bbfc3d5931db" />
+<img width="1024" height="603" alt="Image" src="https://github.com/user-attachments/assets/e6f3f326-44c2-4d5f-8296-7d56d2a3b97d" />
+<img width="871" height="779" alt="Image" src="https://github.com/user-attachments/assets/e4b57725-9292-417b-a40c-a79fda2d1991" />
+
 🐧 Ubuntu Server 24.04 (SRV-LINUX)
 
 Configuration IP fixe via netplan (192.168.1.30)
@@ -61,6 +65,8 @@ Connexion SSH vers SRV-LINUX
 | WinSRV | WinClient | RDP | ✅ |
 | WinSRV | SRV-LINUX | SSH | ✅ |
 | CLIENT-LINUX | SRV-LINUX | SSH | ✅ |
+
+<img width="966" height="852" alt="Image" src="https://github.com/user-attachments/assets/1a7ffc08-1950-4d77-aa1e-fd2bbe6284e9" /
 
 🛠️ Stack technique
 
