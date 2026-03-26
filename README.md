@@ -51,8 +51,8 @@ Construire une infrastructure réseau complète simulant un environnement d'entr
 - Déploiement d'une GPO (blocage du Panneau de configuration pour les utilisateurs du domaine)
 - Activation et test du RDP (Bureau à distance) vers WinClient
 
-![Active Directory](screenshots/ad-users.png)
-![GPO](screenshots/gpo.png)
+<img width="1011" height="786" alt="Image" src="https://github.com/user-attachments/assets/85974b44-b0d2-4556-9346-6f20a4b2a0aa" />
+<img width="871" height="779" alt="Image" src="https://github.com/user-attachments/assets/e4b57725-9292-417b-a40c-a79fda2d1991" />
 
 ### 🪟 Windows 10 Pro (Client)
 
@@ -61,8 +61,8 @@ Construire une infrastructure réseau complète simulant un environnement d'entr
 - Application des GPO via `gpupdate /force`
 - Autorisation du RDP pour les utilisateurs du domaine
 
-![Jonction domaine](screenshots/domain-join.png)
-![RDP](screenshots/rdp.png)
+<img width="574" height="621" alt="Image" src="https://github.com/user-attachments/assets/f5e25e8e-3ad4-45ac-a736-bbfc3d5931db" />
+<img width="1024" height="603" alt="Image" src="https://github.com/user-attachments/assets/e6f3f326-44c2-4d5f-8296-7d56d2a3b97d" />
 
 ### 🐧 Ubuntu Server 24.04 (SRV-LINUX)
 
@@ -77,7 +77,7 @@ Construire une infrastructure réseau complète simulant un environnement d'entr
 - Tests de connectivité (ping, ssh)
 - Connexion SSH vers SRV-LINUX
 
-![SSH Linux](screenshots/ssh-linux.png)
+<img width="966" height="852" alt="Image" src="https://github.com/user-attachments/assets/1a7ffc08-1950-4d77-aa1e-fd2bbe6284e9" />
 
 ---
 
@@ -89,7 +89,7 @@ Construire une infrastructure réseau complète simulant un environnement d'entr
 | WinSRV | SRV-LINUX | SSH | ✅ |
 | CLIENT-LINUX | SRV-LINUX | SSH | ✅ |
 
-![Connexions](screenshots/connexions.png)
+<img width="1022" height="788" alt="Image" src="https://github.com/user-attachments/assets/dccb9dac-7827-427e-b264-d5858ceebcbb" />
 
 ---
 
